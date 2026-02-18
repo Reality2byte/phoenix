@@ -18,7 +18,7 @@
         "fastify": "^5.7.3",
         "mailparser": "^3.6.5",
         "smtp-server": "^3.13.0",
-        "zod": "^3.22.4"
+        "zod": "^4.3.6"
     },
     "devDependencies": {
         "@types/mailparser": "^3.4.4",
