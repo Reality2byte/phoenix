@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@arizeai/phoenix-client": "workspace:*",
-    "@modelcontextprotocol/sdk": "^1.25.2",
+    "@modelcontextprotocol/sdk": "^1.27.0",
     "glob": "^13.0.6",
     "minimist": "^1.2.8",
     "zod": "^4.0.14"
