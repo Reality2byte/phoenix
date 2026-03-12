@@ -32,7 +32,7 @@ h11==0.16.0
 httpcore==1.0.5
     # via httpx
 httpx==0.27.0
-idna==3.6
+idna==3.7
     # via
     #   anyio
     #   httpx
@@ -66,7 +66,7 @@ pandas==2.2.1
     # via
     #   altair
     #   streamlit
-pillow==10.3.0
+pillow==11.3.0
     # via streamlit
 protobuf==5.29.6
     # via streamlit
@@ -110,7 +110,7 @@ toml==0.10.2
     # via streamlit
 toolz==0.12.1
     # via altair
-tornado==6.5.1
+tornado==6.5.5
     # via streamlit
 typing-extensions==4.11.0
     # via
