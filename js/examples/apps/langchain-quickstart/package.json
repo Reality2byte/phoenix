@@ -16,7 +16,7 @@
     "@arizeai/phoenix-client": "workspace:*",
     "@arizeai/phoenix-evals": "workspace:*",
     "@arizeai/phoenix-otel": "workspace:*",
-    "@langchain/core": "1.1.18",
+    "@langchain/core": "1.1.34",
     "@langchain/openai": "1.2.4",
     "dotenv": "^17.2.3",
     "langchain": "1.2.16",
